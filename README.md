@@ -7,7 +7,7 @@ Completed my final technical project in an intense 45-day internship journey! Th
 
 2️⃣ User-Friendly GUI with Tkinter (Python): Check out my intuitive GUI project! With a single click, it efficiently performs tasks, offering a smooth user experience.
 
-Embarked on an inspiring journey with my exceptional team, @mdazfar2, @harireddy, @amanmahto, and @adityajain together crafting these innovative projects within a remarkable 45-day internship.
+Embarked on an inspiring journey with me exceptional team, @mdazfar2, @harireddy, @amanmahto, and @adityajain together crafting these innovative projects within a remarkable 45-day internship.
 
  If you have ideas for additional buttons, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
